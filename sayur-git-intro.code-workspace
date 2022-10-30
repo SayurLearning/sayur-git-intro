@@ -6,6 +6,9 @@
 		{
 			"name": "ClassNotes",
 			"path": "..\\Git\\ClassNotes"
+		},
+		{
+			"path": "../Python/ClassNotes/WebProgramming"
 		}
 	],
 	"settings": {}
